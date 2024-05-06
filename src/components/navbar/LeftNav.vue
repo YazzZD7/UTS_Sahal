@@ -6,8 +6,8 @@
           <v-list>
             <v-list-item
               prepend-avatar="https://th.bing.com/th/id/OIP.ePOE9pe2RM_2JgpMo66-_AHaFj?w=208&h=180&c=7&r=0&o=5&dpr=1.2&pid=1.7"
-              subtitle="botakbolenang728@gmail.com"
-              title="Muhammad Raihan Al Fara Kesuma"
+              subtitle="sahalalfarodi20@gmail.com"
+              title="Muhammad Sahal Alfarodi"
             ></v-list-item>
           </v-list>
   
